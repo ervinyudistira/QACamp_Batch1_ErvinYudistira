@@ -1,0 +1,6 @@
+Link GIT : https://github.com/ervinyudistira/Tugas_Katalon_Mochammad_Ervinda_Yudistira.git 
+(didalam Repostory Tugas Testing Katalon ada Update Excel Test Case dan Scenario V1.1)
+
+
+
+Link GIT TUGAS KATALON API : https://github.com/ervinyudistira/Tugas_KatalonAPI_Mochammad-Ervinda-Yudistira.git
